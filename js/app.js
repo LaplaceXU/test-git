@@ -1,3 +1,4 @@
 ;(function (g) {
-    console.log('Hello world !');
+	var _n = 'xubowen';	 
+    console.log(_n);
 })(window);
